@@ -1,5 +1,10 @@
 # node-lambda
 
+### Custom fork
+
+This is a fork of the original project to enable support for dependencies defined using the 'linklocal' npm package.
+I may consider creating a pull request to the main repo, but I'm not sure if it is just behaviour that is specific to our project.
+
 ![node-lambda](../master/node-lambda.png?raw=true)
 
 Command line tool to locally run and deploy your node.js application to [Amazon Lambda](http://aws.amazon.com/lambda/).
